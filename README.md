@@ -12,7 +12,7 @@ A research project examining whether option put–call ratios provide informatio
 
 - Official data from five Chinese commodity exchanges; a core panel of 43,079 commodity-days across 61 products, spanning 2019–2025.
 - A frozen analysis plan, panel regressions, and a fixed-model historical holdout evaluation for 2025, with data-exposure limitations explicitly documented.
-- Independently checked computations. No clear next-day predictive evidence in the prespecified linear specifications.
+- Independently re-implemented computational checks (AI-assisted). No clear next-day predictive evidence in the prespecified linear specifications.
 
 [Code and documentation](https://github.com/ethan-yichen-wang/OptionFlow) · [Full results](https://github.com/ethan-yichen-wang/OptionFlow/blob/main/reports/RESULTS.md)
 
