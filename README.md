@@ -6,7 +6,7 @@ My research interests lie in market microstructure and learning-based decision m
 
 ## Selected work
 
-**Put–Call Ratios and Commodity Futures Returns**
+**[OptionFlow — Option Activity and Commodity Futures Returns](https://github.com/ethan-yichen-wang/OptionFlow)**
 
 A research project examining whether option put–call ratios provide information about next-day commodity futures returns.
 
@@ -14,7 +14,7 @@ A research project examining whether option put–call ratios provide informatio
 - A frozen analysis plan, panel regressions, and a fixed-model historical holdout evaluation for 2025, with data-exposure limitations explicitly documented.
 - Independently checked computations. No clear next-day predictive evidence in the prespecified linear specifications.
 
-The code and report are being prepared for public release.
+[Code and documentation](https://github.com/ethan-yichen-wang/OptionFlow) · [Full results](https://github.com/ethan-yichen-wang/OptionFlow/blob/main/reports/RESULTS.md)
 
 ## Research interests
 
